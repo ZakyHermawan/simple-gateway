@@ -10,7 +10,7 @@ from time import sleep
 sleep_variable = 4 # in seconds
 topic = 'tesaja'
 username = 'zaky0817'
-key = 'aio_zoHj33z4yuCPNym9gpkFlTGYjjri'
+key = 'INSERT API KEY'
 io = Client(username, key)
 
 # cara kirim
