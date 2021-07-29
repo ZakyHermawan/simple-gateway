@@ -1,7 +1,7 @@
 from Adafruit_IO import Client
 from time import sleep
 username = 'zaky0817'
-key = 'aio_zoHj33z4yuCPNym9gpkFlTGYjjri'
+key = 'INSERT API KEY'
 io = Client(username, key)
 
 with open('data.txt') as data:
